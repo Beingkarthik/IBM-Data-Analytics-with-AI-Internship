@@ -87,4 +87,58 @@ Business Action
       ↓
 Customer Retention
 
+## 500-Customer Decision Activity
 
+Imagine that the business has 500 customers and must choose between two churn prediction models.
+
+### Model A — Higher Recall
+
+Model A identifies more customers who are actually at risk of churn.
+
+Advantages:
+
+- Fewer actual churned customers are missed.
+- More customers can receive retention actions.
+- Useful when missing a churned customer is expensive.
+
+Disadvantage:
+
+- It may identify more customers who do not actually churn.
+- This can increase retention campaign costs.
+
+### Model B — Higher Precision
+
+Model B is more accurate when it predicts that a customer is at risk.
+
+Advantages:
+
+- Fewer unnecessary retention actions.
+- Marketing resources can be focused on customers more likely to churn.
+- Useful when retention campaigns are expensive.
+
+Disadvantage:
+
+- It may miss more customers who are actually at risk.
+
+## Which Model Should the Business Choose?
+
+There is no universal answer.
+
+The choice depends on the business cost of:
+
+- False positives — contacting customers who would not churn.
+- False negatives — missing customers who actually churn.
+
+If missing a churned customer is more expensive, the business may prefer the higher-recall model.
+
+If retention campaigns are expensive and unnecessary outreach must be minimized, the business may prefer the higher-precision model.
+
+## Decision for This Project
+
+The final project model prioritizes recall because identifying more potentially churned customers was considered important for customer-retention actions.
+
+The selected Balanced + Scaled Logistic Regression model achieved:
+
+```text
+Recall = 90.00%
+Precision = 41.86%
