@@ -1,0 +1,365 @@
+Customer_ID,Recency,Frequency,Monetary,Avg_Order_Value,Churn_Status,Churn_Probability,Risk_Level,Recommended_Action
+C456,161,1,9576.0,9576.0,0,0.7237890127529445,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C106,160,1,4925.0,4925.0,1,0.7232025373841572,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C264,158,1,17470.0,17470.0,1,0.7206801100986977,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C263,157,1,5729.0,5729.0,1,0.7205277887345897,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C091,159,1,46493.0,46493.0,1,0.7197642314396986,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C231,155,1,7578.0,7578.0,0,0.7186544237353151,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C323,155,1,9028.0,9028.0,0,0.7185644737179375,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C154,156,1,36930.0,36930.0,0,0.7177140560990898,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C008,158,1,76659.0,76659.0,1,0.7170102626136762,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C001,156,1,65000.0,65000.0,1,0.7159661172454295,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C466,149,1,2130.0,2130.0,1,0.7136784967409503,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C134,155,1,98784.0,98784.0,1,0.7129626043800419,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C071,149,1,35615.0,35615.0,1,0.7115747754033752,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C238,149,1,41760.0,41760.0,0,0.7111877142229888,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C015,148,1,58288.0,58288.0,0,0.7092471501040145,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C182,143,1,831.0,831.0,1,0.7083873757449162,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C319,148,1,72900.0,72900.0,1,0.7083218792318967,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C270,159,1,237412.0,237412.0,0,0.7077997340368414,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C418,142,1,20955.0,20955.0,1,0.7062069261636006,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C278,140,1,20747.0,20747.0,0,0.7044083772287553,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C088,137,1,2910.0,2910.0,0,0.7028227604089713,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C243,136,1,13344.0,13344.0,0,0.7012414510982093,High Risk,"Immediate retention outreach, personalized offer, and follow-up"
+C419,144,1,158925.0,158925.0,0,0.6991856050703005,Medium Risk,Targeted engagement campaign and personalized recommendations
+C200,132,1,3668.0,3668.0,1,0.6982020951824003,Medium Risk,Targeted engagement campaign and personalized recommendations
+C112,132,1,24504.0,24504.0,0,0.6968534688802731,Medium Risk,Targeted engagement campaign and personalized recommendations
+C058,131,1,14724.0,14724.0,0,0.696566482271462,Medium Risk,Targeted engagement campaign and personalized recommendations
+C226,127,1,9930.0,9930.0,0,0.6931819115444716,Medium Risk,Targeted engagement campaign and personalized recommendations
+C156,126,1,2075.0,2075.0,1,0.6927673007024328,Medium Risk,Targeted engagement campaign and personalized recommendations
+C300,127,1,17940.0,17940.0,1,0.6926590369860877,Medium Risk,Targeted engagement campaign and personalized recommendations
+C066,127,1,23559.0,23559.0,1,0.6922919458042023,Medium Risk,Targeted engagement campaign and personalized recommendations
+C349,124,1,5544.0,5544.0,0,0.69068154192326,Medium Risk,Targeted engagement campaign and personalized recommendations
+C354,137,1,208544.0,208544.0,0,0.6894803614654426,Medium Risk,Targeted engagement campaign and personalized recommendations
+C041,128,1,107652.0,107652.0,1,0.6877060318732806,Medium Risk,Targeted engagement campaign and personalized recommendations
+C206,118,1,36474.0,36474.0,0,0.6830161614723477,Medium Risk,Targeted engagement campaign and personalized recommendations
+C271,114,1,2059.0,2059.0,0,0.6815255897140471,Medium Risk,Targeted engagement campaign and personalized recommendations
+C080,114,1,16608.0,16608.0,1,0.680556035795374,Medium Risk,Targeted engagement campaign and personalized recommendations
+C371,111,1,4500.0,4500.0,1,0.6785175361416271,Medium Risk,Targeted engagement campaign and personalized recommendations
+C286,110,1,10376.0,10376.0,1,0.6771721195214272,Medium Risk,Targeted engagement campaign and personalized recommendations
+C143,109,1,5015.0,5015.0,0,0.6765785630526822,Medium Risk,Targeted engagement campaign and personalized recommendations
+C224,109,1,7980.0,7980.0,0,0.676379490088552,Medium Risk,Targeted engagement campaign and personalized recommendations
+C144,111,1,38652.0,38652.0,1,0.6762278582158993,Medium Risk,Targeted engagement campaign and personalized recommendations
+C153,109,1,13028.0,13028.0,0,0.676040415542692,Medium Risk,Targeted engagement campaign and personalized recommendations
+C282,109,1,21884.0,21884.0,0,0.6754451106995251,Medium Risk,Targeted engagement campaign and personalized recommendations
+C312,108,1,32630.0,32630.0,1,0.6737647003893282,Medium Risk,Targeted engagement campaign and personalized recommendations
+C283,105,1,2712.0,2712.0,1,0.6729075014198517,Medium Risk,Targeted engagement campaign and personalized recommendations
+C060,105,1,13235.0,13235.0,1,0.6721965524105652,Medium Risk,Targeted engagement campaign and personalized recommendations
+C431,106,1,32130.0,32130.0,0,0.6718795772949708,Medium Risk,Targeted engagement campaign and personalized recommendations
+C167,103,1,20196.0,20196.0,0,0.6698007668609073,Medium Risk,Targeted engagement campaign and personalized recommendations
+C451,102,1,13285.0,13285.0,0,0.6693055344852662,Medium Risk,Targeted engagement campaign and personalized recommendations
+C020,102,1,18759.0,18759.0,1,0.6689337336608828,Medium Risk,Targeted engagement campaign and personalized recommendations
+C032,101,1,28620.0,28620.0,1,0.6672964987976593,Medium Risk,Targeted engagement campaign and personalized recommendations
+C072,102,1,43386.0,43386.0,1,0.6672584323020482,Medium Risk,Targeted engagement campaign and personalized recommendations
+C311,110,1,166170.0,166170.0,0,0.6666364651804322,Medium Risk,Targeted engagement campaign and personalized recommendations
+C026,102,1,61344.0,61344.0,0,0.6660341285362197,Medium Risk,Targeted engagement campaign and personalized recommendations
+C136,98,1,15930.0,15930.0,0,0.6652547710576098,Medium Risk,Targeted engagement campaign and personalized recommendations
+C317,95,1,28972.0,28972.0,0,0.6614413109761748,Medium Risk,Targeted engagement campaign and personalized recommendations
+C422,90,1,12026.0,12026.0,0,0.6577154673294797,Medium Risk,Targeted engagement campaign and personalized recommendations
+C221,89,1,35268.0,35268.0,0,0.6551243890016992,Medium Risk,Targeted engagement campaign and personalized recommendations
+C092,111,1,375015.0,375015.0,0,0.6532372928652134,Medium Risk,Targeted engagement campaign and personalized recommendations
+C437,84,1,8061.0,8061.0,1,0.6520801791253488,Medium Risk,Targeted engagement campaign and personalized recommendations
+C083,83,1,3104.0,3104.0,0,0.6514360910767593,Medium Risk,Targeted engagement campaign and personalized recommendations
+C398,87,1,60130.0,60130.0,1,0.6514223299227461,Medium Risk,Targeted engagement campaign and personalized recommendations
+C332,82,1,4866.0,4866.0,1,0.6503228548849591,Medium Risk,Targeted engagement campaign and personalized recommendations
+C429,85,1,56684.0,56684.0,1,0.6496809937283525,Medium Risk,Targeted engagement campaign and personalized recommendations
+C017,81,1,7308.0,7308.0,0,0.6491604676334176,Medium Risk,Targeted engagement campaign and personalized recommendations
+C320,80,1,2128.0,2128.0,1,0.6485294819868649,Medium Risk,Targeted engagement campaign and personalized recommendations
+C232,81,1,17745.0,17745.0,0,0.6484308855079425,Medium Risk,Targeted engagement campaign and personalized recommendations
+C331,81,1,22470.0,22470.0,0,0.6481003634752751,Medium Risk,Targeted engagement campaign and personalized recommendations
+C067,78,1,18105.0,18105.0,0,0.6454190606059422,Medium Risk,Targeted engagement campaign and personalized recommendations
+C328,76,1,2970.0,2970.0,0,0.6444861982635964,Medium Risk,Targeted engagement campaign and personalized recommendations
+C215,84,1,120312.0,120312.0,0,0.6442271266203786,Medium Risk,Targeted engagement campaign and personalized recommendations
+C057,76,1,11664.0,11664.0,1,0.6438748514124135,Medium Risk,Targeted engagement campaign and personalized recommendations
+C102,75,1,2974.0,2974.0,0,0.6434866540933679,Medium Risk,Targeted engagement campaign and personalized recommendations
+C010,128,2,26508.0,13254.0,0,0.6430025779146006,Medium Risk,Targeted engagement campaign and personalized recommendations
+C392,79,1,83640.0,83640.0,0,0.6418072249312302,Medium Risk,Targeted engagement campaign and personalized recommendations
+C366,72,1,4066.0,4066.0,1,0.6404042460882184,Medium Risk,Targeted engagement campaign and personalized recommendations
+C125,71,1,2555.0,2555.0,0,0.6395068020042339,Medium Risk,Targeted engagement campaign and personalized recommendations
+C475,73,1,53585.0,53585.0,0,0.6379057578567845,Medium Risk,Targeted engagement campaign and personalized recommendations
+C411,67,1,3692.0,3692.0,0,0.6353971070806301,Medium Risk,Targeted engagement campaign and personalized recommendations
+C380,75,1,127374.0,127374.0,1,0.6346843115365004,Medium Risk,Targeted engagement campaign and personalized recommendations
+C079,66,1,3771.0,3771.0,0,0.6343811687136376,Medium Risk,Targeted engagement campaign and personalized recommendations
+C050,65,1,8298.0,8298.0,0,0.6330471031854924,Medium Risk,Targeted engagement campaign and personalized recommendations
+C234,65,1,11137.0,11137.0,0,0.6328447580080857,Medium Risk,Targeted engagement campaign and personalized recommendations
+C005,65,1,13363.0,13363.0,0,0.6326860706672246,Medium Risk,Targeted engagement campaign and personalized recommendations
+C449,65,1,47025.0,47025.0,0,0.6302828810698903,Medium Risk,Targeted engagement campaign and personalized recommendations
+C355,59,1,12972.0,12972.0,1,0.6266159828957494,Medium Risk,Targeted engagement campaign and personalized recommendations
+C361,58,1,7324.0,7324.0,1,0.6260014275895902,Medium Risk,Targeted engagement campaign and personalized recommendations
+C025,56,1,18612.0,18612.0,0,0.6231454644118787,Medium Risk,Targeted engagement campaign and personalized recommendations
+C460,54,1,8240.0,8240.0,0,0.6218447583251246,Medium Risk,Targeted engagement campaign and personalized recommendations
+C007,53,1,17340.0,17340.0,0,0.6201618979100314,Medium Risk,Targeted engagement campaign and personalized recommendations
+C259,105,2,26525.0,13262.5,1,0.6196683924525559,Medium Risk,Targeted engagement campaign and personalized recommendations
+C149,52,1,10244.0,10244.0,1,0.6196478711339534,Medium Risk,Targeted engagement campaign and personalized recommendations
+C244,54,1,39476.0,39476.0,0,0.6195887412344179,Medium Risk,Targeted engagement campaign and personalized recommendations
+C038,67,1,224580.0,224580.0,0,0.6195589844381643,Medium Risk,Targeted engagement campaign and personalized recommendations
+C211,148,2,122512.0,61256.0,1,0.6188619034940678,Medium Risk,Targeted engagement campaign and personalized recommendations
+C203,53,1,35612.0,35612.0,0,0.6188405657619724,Medium Risk,Targeted engagement campaign and personalized recommendations
+C219,50,1,12882.0,12882.0,0,0.6174001294740333,Medium Risk,Targeted engagement campaign and personalized recommendations
+C169,49,1,5373.0,5373.0,1,0.6169146179939397,Medium Risk,Targeted engagement campaign and personalized recommendations
+C022,69,1,297340.0,297340.0,1,0.6163471489057079,Medium Risk,Targeted engagement campaign and personalized recommendations
+C324,50,1,29562.0,29562.0,0,0.6161906501921306,Medium Risk,Targeted engagement campaign and personalized recommendations
+C131,48,1,12156.0,12156.0,0,0.6153916462810177,Medium Risk,Targeted engagement campaign and personalized recommendations
+C356,47,1,8624.0,8624.0,1,0.6146162255578198,Medium Risk,Targeted engagement campaign and personalized recommendations
+C395,48,1,38592.0,38592.0,0,0.6134703200660014,Medium Risk,Targeted engagement campaign and personalized recommendations
+C374,45,1,15975.0,15975.0,0,0.6120140811017456,Medium Risk,Targeted engagement campaign and personalized recommendations
+C084,53,1,131802.0,131802.0,1,0.6118559860511713,Medium Risk,Targeted engagement campaign and personalized recommendations
+C414,46,1,37928.0,37928.0,0,0.6114496710730151,Medium Risk,Targeted engagement campaign and personalized recommendations
+C357,89,2,9485.0,4742.5,0,0.6111818963012686,Medium Risk,Targeted engagement campaign and personalized recommendations
+C055,41,1,10209.0,10209.0,0,0.608287902029089,Medium Risk,Targeted engagement campaign and personalized recommendations
+C362,148,2,146974.0,73487.0,0,0.6073261093095847,Medium Risk,Targeted engagement campaign and personalized recommendations
+C009,47,1,122420.0,122420.0,0,0.6063148087535417,Medium Risk,Targeted engagement campaign and personalized recommendations
+C407,38,1,15745.0,15745.0,0,0.6047621080988459,Medium Risk,Targeted engagement campaign and personalized recommendations
+C186,48,1,157835.0,157835.0,0,0.6047607249541269,Medium Risk,Targeted engagement campaign and personalized recommendations
+C021,87,2,20428.0,10214.0,0,0.603916223033378,Medium Risk,Targeted engagement campaign and personalized recommendations
+C296,36,1,3056.0,3056.0,0,0.6036084168265545,Medium Risk,Targeted engagement campaign and personalized recommendations
+C236,35,1,3870.0,3870.0,0,0.6025053056112656,Medium Risk,Targeted engagement campaign and personalized recommendations
+C289,34,1,3766.0,3766.0,0,0.6014686607149266,Medium Risk,Targeted engagement campaign and personalized recommendations
+C467,36,1,65208.0,65208.0,1,0.5990374164181452,Medium Risk,Targeted engagement campaign and personalized recommendations
+C160,86,2,31300.0,15650.0,1,0.5976868399120873,Medium Risk,Targeted engagement campaign and personalized recommendations
+C318,29,1,1958.0,1958.0,0,0.5963670663389137,Medium Risk,Targeted engagement campaign and personalized recommendations
+C207,28,1,10050.0,10050.0,0,0.5947192706030235,Medium Risk,Targeted engagement campaign and personalized recommendations
+C217,27,1,3038.0,3038.0,1,0.5941871291590461,Medium Risk,Targeted engagement campaign and personalized recommendations
+C443,28,1,22125.0,22125.0,0,0.5938260929728407,Medium Risk,Targeted engagement campaign and personalized recommendations
+C037,97,2,63615.0,31807.5,0,0.5937604038875174,Medium Risk,Targeted engagement campaign and personalized recommendations
+C052,79,2,25115.0,12557.5,0,0.5932997537863278,Medium Risk,Targeted engagement campaign and personalized recommendations
+C047,26,1,7708.0,7708.0,0,0.5927899528691626,Medium Risk,Targeted engagement campaign and personalized recommendations
+C097,107,2,91393.0,45696.5,0,0.5909492885966143,Medium Risk,Targeted engagement campaign and personalized recommendations
+C327,69,2,9908.0,4954.0,0,0.590074187729265,Medium Risk,Targeted engagement campaign and personalized recommendations
+C376,23,1,6447.0,6447.0,0,0.5897234734933495,Medium Risk,Targeted engagement campaign and personalized recommendations
+C301,25,1,46348.0,46348.0,1,0.5888705878403716,Medium Risk,Targeted engagement campaign and personalized recommendations
+C175,22,1,4654.0,4654.0,0,0.5888017099525364,Medium Risk,Targeted engagement campaign and personalized recommendations
+C201,26,1,72630.0,72630.0,0,0.5879734590855831,Medium Risk,Targeted engagement campaign and personalized recommendations
+C152,21,1,3772.0,3772.0,1,0.587811609667514,Medium Risk,Targeted engagement campaign and personalized recommendations
+C146,22,1,19018.0,19018.0,1,0.5877343869871182,Medium Risk,Targeted engagement campaign and personalized recommendations
+C401,75,2,30686.0,15343.0,1,0.5864025662618663,Medium Risk,Targeted engagement campaign and personalized recommendations
+C147,21,1,26292.0,26292.0,1,0.586136686292512,Medium Risk,Targeted engagement campaign and personalized recommendations
+C086,20,1,15758.0,15758.0,0,0.5858633085550172,Medium Risk,Targeted engagement campaign and personalized recommendations
+C132,114,2,117320.0,58660.0,1,0.585854463102666,Medium Risk,Targeted engagement campaign and personalized recommendations
+C284,21,1,58215.0,58215.0,0,0.5837590063642345,Medium Risk,Targeted engagement campaign and personalized recommendations
+C329,75,2,36172.0,18086.0,0,0.5837547834880411,Medium Risk,Targeted engagement campaign and personalized recommendations
+C045,15,1,2401.0,2401.0,0,0.5815636467689823,Medium Risk,Targeted engagement campaign and personalized recommendations
+C339,41,1,373970.0,373970.0,1,0.5814005887542544,Medium Risk,Targeted engagement campaign and personalized recommendations
+C151,84,2,60781.0,30390.5,0,0.5813959898258736,Medium Risk,Targeted engagement campaign and personalized recommendations
+C123,18,1,64761.0,64761.0,1,0.5800893383631741,Medium Risk,Targeted engagement campaign and personalized recommendations
+C109,28,1,211650.0,211650.0,1,0.579729267221613,Medium Risk,Targeted engagement campaign and personalized recommendations
+C130,102,3,10615.0,3538.3333333333335,0,0.5791846522462605,Medium Risk,Targeted engagement campaign and personalized recommendations
+C178,14,1,22269.0,22269.0,0,0.5790176298311406,Medium Risk,Targeted engagement campaign and personalized recommendations
+C126,58,2,8697.0,4348.5,0,0.5790162372309938,Medium Risk,Targeted engagement campaign and personalized recommendations
+C176,97,2,94337.0,47168.5,0,0.578947193602796,Medium Risk,Targeted engagement campaign and personalized recommendations
+C478,13,1,9175.0,9175.0,1,0.578934388735707,Medium Risk,Targeted engagement campaign and personalized recommendations
+C028,12,1,3734.0,3734.0,0,0.5782786830012496,Medium Risk,Targeted engagement campaign and personalized recommendations
+C330,67,2,31537.0,15768.5,1,0.5775084257568684,Medium Risk,Targeted engagement campaign and personalized recommendations
+C342,11,1,1906.0,1906.0,0,0.5773522549126167,Medium Risk,Targeted engagement campaign and personalized recommendations
+C290,12,1,22960.0,22960.0,1,0.5768396134111081,Medium Risk,Targeted engagement campaign and personalized recommendations
+C438,65,2,32271.0,16135.5,0,0.5750235494594543,Medium Risk,Targeted engagement campaign and personalized recommendations
+C148,84,2,80362.0,40181.0,1,0.5718925395442259,Medium Risk,Targeted engagement campaign and personalized recommendations
+C350,12,1,89238.0,89238.0,0,0.5718688353633191,Medium Risk,Targeted engagement campaign and personalized recommendations
+C185,68,2,45907.0,22953.5,0,0.571590277831306,Medium Risk,Targeted engagement campaign and personalized recommendations
+C157,20,1,209892.0,209892.0,0,0.5713431954001165,Medium Risk,Targeted engagement campaign and personalized recommendations
+C233,7,1,55137.0,55137.0,1,0.5690924082249961,Medium Risk,Targeted engagement campaign and personalized recommendations
+C162,49,2,12320.0,6160.0,0,0.5676591199720973,Medium Risk,Targeted engagement campaign and personalized recommendations
+C069,6,1,69195.0,69195.0,1,0.5669647295407018,Medium Risk,Targeted engagement campaign and personalized recommendations
+C285,57,2,35326.0,17663.0,0,0.5649891344132496,Medium Risk,Targeted engagement campaign and personalized recommendations
+C336,45,2,10391.0,5195.5,0,0.564318636044474,Medium Risk,Targeted engagement campaign and personalized recommendations
+C308,3,1,109728.0,109728.0,0,0.5606911702932346,Medium Risk,Targeted engagement campaign and personalized recommendations
+C043,7,1,208317.0,208317.0,0,0.5575330949105051,Medium Risk,Targeted engagement campaign and personalized recommendations
+C322,98,2,146495.0,73247.5,0,0.5545603658054283,Medium Risk,Targeted engagement campaign and personalized recommendations
+C120,45,2,31218.0,15609.0,0,0.5541124436269765,Medium Risk,Targeted engagement campaign and personalized recommendations
+C377,40,2,20757.0,10378.5,0,0.5538667140786824,Medium Risk,Targeted engagement campaign and personalized recommendations
+C235,48,2,43039.0,21519.5,1,0.5515349543372754,Medium Risk,Targeted engagement campaign and personalized recommendations
+C434,44,2,41468.0,20734.0,1,0.5479927563340473,Medium Risk,Targeted engagement campaign and personalized recommendations
+C064,29,2,65280.0,65280.0,1,0.5472594982042922,Medium Risk,Targeted engagement campaign and personalized recommendations
+C480,73,2,108100.0,54050.0,1,0.5464869262710981,Medium Risk,Targeted engagement campaign and personalized recommendations
+C194,86,2,138652.0,69326.0,0,0.5454752295293729,Medium Risk,Targeted engagement campaign and personalized recommendations
+C346,37,2,32317.0,16158.5,0,0.5449403646487094,Medium Risk,Targeted engagement campaign and personalized recommendations
+C228,42,2,48428.0,24214.0,1,0.5424002720880292,Medium Risk,Targeted engagement campaign and personalized recommendations
+C310,87,2,151826.0,75913.0,0,0.5400568901931343,Medium Risk,Targeted engagement campaign and personalized recommendations
+C281,25,2,16914.0,8457.0,1,0.539559470156351,Medium Risk,Targeted engagement campaign and personalized recommendations
+C111,26,2,21855.0,10927.5,1,0.5382015022911776,Medium Risk,Targeted engagement campaign and personalized recommendations
+C122,19,2,9676.0,4838.0,0,0.5366363499430563,Medium Risk,Targeted engagement campaign and personalized recommendations
+C220,42,2,63559.0,31779.5,0,0.5349247334584534,Medium Risk,Targeted engagement campaign and personalized recommendations
+C161,26,2,33108.0,16554.0,1,0.5326364834434045,Medium Risk,Targeted engagement campaign and personalized recommendations
+C272,13,2,8576.0,4288.0,0,0.5306725594865355,Medium Risk,Targeted engagement campaign and personalized recommendations
+C036,85,2,167958.0,83979.0,0,0.5299097366232394,Medium Risk,Targeted engagement campaign and personalized recommendations
+C216,35,2,59848.0,29924.0,0,0.5291656835938988,Medium Risk,Targeted engagement campaign and personalized recommendations
+C087,16,2,18417.0,9208.5,1,0.5290558915454869,Medium Risk,Targeted engagement campaign and personalized recommendations
+C358,11,2,11364.0,5682.0,0,0.5271194974197227,Medium Risk,Targeted engagement campaign and personalized recommendations
+C170,57,2,112236.0,56118.0,0,0.527105247508126,Medium Risk,Targeted engagement campaign and personalized recommendations
+C110,11,2,14442.0,7221.0,0,0.5255938733830313,Medium Risk,Targeted engagement campaign and personalized recommendations
+C096,14,2,21311.0,10655.5,0,0.5254489848913289,Medium Risk,Targeted engagement campaign and personalized recommendations
+C090,126,3,137478.0,45826.0,0,0.5251558598198636,Medium Risk,Targeted engagement campaign and personalized recommendations
+C341,18,2,31182.0,15591.0,0,0.524902629151014,Medium Risk,Targeted engagement campaign and personalized recommendations
+C363,40,2,79463.0,39731.5,1,0.5248770349274114,Medium Risk,Targeted engagement campaign and personalized recommendations
+C287,19,2,33735.0,16867.5,1,0.5247237623239597,Medium Risk,Targeted engagement campaign and personalized recommendations
+C251,72,3,47732.0,15910.666666666666,0,0.5235016819968433,Medium Risk,Targeted engagement campaign and personalized recommendations
+C210,9,2,16782.0,8391.0,1,0.5222592275268823,Medium Risk,Targeted engagement campaign and personalized recommendations
+C347,49,2,105690.0,52845.0,0,0.5216548957041551,Medium Risk,Targeted engagement campaign and personalized recommendations
+C261,8,2,16068.0,8034.0,0,0.5215258957812616,Medium Risk,Targeted engagement campaign and personalized recommendations
+C316,3,2,5518.0,2759.0,0,0.5213218787873329,Medium Risk,Targeted engagement campaign and personalized recommendations
+C230,67,3,46792.0,15597.333333333334,0,0.5186611405359339,Medium Risk,Targeted engagement campaign and personalized recommendations
+C383,45,2,107478.0,53739.0,1,0.5164153526629723,Medium Risk,Targeted engagement campaign and personalized recommendations
+C267,16,2,44591.0,22295.5,0,0.5160737084573219,Medium Risk,Targeted engagement campaign and personalized recommendations
+C256,14,2,44206.0,22103.0,0,0.5140876301461219,Medium Risk,Targeted engagement campaign and personalized recommendations
+C299,10,2,50780.0,25390.0,1,0.5064649895645893,Medium Risk,Targeted engagement campaign and personalized recommendations
+C085,34,3,15900.0,5300.0,0,0.5023950139523485,Medium Risk,Targeted engagement campaign and personalized recommendations
+C385,44,3,35135.0,11711.666666666666,0,0.5010357060647093,Medium Risk,Targeted engagement campaign and personalized recommendations
+C205,84,3,109454.0,36484.666666666664,0,0.49726840394779764,Medium Risk,Targeted engagement campaign and personalized recommendations
+C082,15,2,80429.0,40214.5,0,0.49717688469776805,Medium Risk,Targeted engagement campaign and personalized recommendations
+C018,89,3,120195.0,40065.0,0,0.49587297098192695,Medium Risk,Targeted engagement campaign and personalized recommendations
+C424,17,2,89234.0,44617.0,0,0.4949798709854188,Medium Risk,Targeted engagement campaign and personalized recommendations
+C389,28,3,19415.0,6471.666666666667,0,0.49361805497003086,Medium Risk,Targeted engagement campaign and personalized recommendations
+C452,22,2,104783.0,52391.5,0,0.4926999311605451,Medium Risk,Targeted engagement campaign and personalized recommendations
+C197,49,2,164666.0,82333.0,0,0.49235586077578813,Medium Risk,Targeted engagement campaign and personalized recommendations
+C039,28,3,27730.0,9243.333333333334,0,0.48832193673816804,Medium Risk,Targeted engagement campaign and personalized recommendations
+C369,19,2,107695.0,53847.5,1,0.48798548501748384,Medium Risk,Targeted engagement campaign and personalized recommendations
+C003,5,2,77737.0,38868.5,1,0.4876211646341481,Medium Risk,Targeted engagement campaign and personalized recommendations
+C128,11,3,3167.0,1055.6666666666667,0,0.48545060850374555,Medium Risk,Targeted engagement campaign and personalized recommendations
+C473,43,3,58626.0,19542.0,0,0.4849833284853685,Medium Risk,Targeted engagement campaign and personalized recommendations
+C440,76,2,242479.0,121239.5,0,0.4831056989813713,Medium Risk,Targeted engagement campaign and personalized recommendations
+C124,88,2,272454.0,136227.0,1,0.48128485240982594,Medium Risk,Targeted engagement campaign and personalized recommendations
+C364,87,3,179920.0,89960.0,1,0.480858452189289,Medium Risk,Targeted engagement campaign and personalized recommendations
+C204,42,3,69354.0,23118.0,0,0.4770699454885364,Medium Risk,Targeted engagement campaign and personalized recommendations
+C298,26,3,54602.0,27301.0,1,0.47668647896795513,Medium Risk,Targeted engagement campaign and personalized recommendations
+C275,85,2,277701.0,138850.5,0,0.4754191174650047,Medium Risk,Targeted engagement campaign and personalized recommendations
+C189,53,3,94778.0,31592.666666666668,0,0.4728675122288761,Medium Risk,Targeted engagement campaign and personalized recommendations
+C293,3,3,15580.0,7790.0,1,0.4710360037544221,Medium Risk,Targeted engagement campaign and personalized recommendations
+C253,23,3,48909.0,16303.0,1,0.4694157392078535,Medium Risk,Targeted engagement campaign and personalized recommendations
+C305,11,3,28508.0,9502.666666666666,0,0.4693390206555357,Medium Risk,Targeted engagement campaign and personalized recommendations
+C048,64,2,246065.0,123032.5,1,0.4682840465649401,Medium Risk,Targeted engagement campaign and personalized recommendations
+C386,52,2,227442.0,113721.0,0,0.46448213912792335,Medium Risk,Targeted engagement campaign and personalized recommendations
+C187,17,3,47496.0,15832.0,0,0.4638034881195792,Medium Risk,Targeted engagement campaign and personalized recommendations
+C218,51,4,43125.0,14375.0,0,0.4583389665882208,Medium Risk,Targeted engagement campaign and personalized recommendations
+C114,5,3,36026.0,12008.666666666666,0,0.4580713671651953,Medium Risk,Targeted engagement campaign and personalized recommendations
+C464,80,2,306704.0,153352.0,0,0.45565247821608706,Medium Risk,Targeted engagement campaign and personalized recommendations
+C337,21,3,69055.0,23018.333333333332,0,0.4544885707218028,Medium Risk,Targeted engagement campaign and personalized recommendations
+C304,10,2,156121.0,78060.5,0,0.454235542023479,Medium Risk,Targeted engagement campaign and personalized recommendations
+C368,57,4,59616.0,14904.0,0,0.45026121725899626,Medium Risk,Targeted engagement campaign and personalized recommendations
+C075,43,3,115990.0,38663.333333333336,0,0.44861147937582146,Medium Risk,Targeted engagement campaign and personalized recommendations
+C116,6,2,160357.0,80178.5,0,0.44783368569971166,Medium Risk,Targeted engagement campaign and personalized recommendations
+C137,38,4,34391.0,8597.75,0,0.44742761221389366,Medium Risk,Targeted engagement campaign and personalized recommendations
+C115,3,3,56119.0,18706.333333333332,0,0.4432369423334879,Medium Risk,Targeted engagement campaign and personalized recommendations
+C107,11,3,70188.0,23396.0,1,0.442993080235426,Medium Risk,Targeted engagement campaign and personalized recommendations
+C373,21,3,88418.0,29472.666666666668,1,0.442283553558733,Medium Risk,Targeted engagement campaign and personalized recommendations
+C068,16,3,90421.0,30140.333333333332,0,0.43565950602022163,Medium Risk,Targeted engagement campaign and personalized recommendations
+C294,29,4,39930.0,9982.5,1,0.4338979485819211,Medium Risk,Targeted engagement campaign and personalized recommendations
+C448,54,3,172399.0,57466.333333333336,0,0.4250435138154319,Medium Risk,Targeted engagement campaign and personalized recommendations
+C463,17,2,236353.0,118176.5,1,0.4224863715686117,Medium Risk,Targeted engagement campaign and personalized recommendations
+C352,18,4,39822.0,9955.5,1,0.42223554518947576,Medium Risk,Targeted engagement campaign and personalized recommendations
+C433,64,2,346320.0,173160.0,1,0.41912760402303695,Medium Risk,Targeted engagement campaign and personalized recommendations
+C303,12,3,119207.0,39735.666666666664,0,0.41348071144610293,Medium Risk,Targeted engagement campaign and personalized recommendations
+C249,52,5,41554.0,8310.8,0,0.41129348911282976,Medium Risk,Targeted engagement campaign and personalized recommendations
+C288,74,4,143711.0,35927.75,0,0.41013415430291755,Medium Risk,Targeted engagement campaign and personalized recommendations
+C208,97,2,437740.0,218870.0,0,0.409923562344372,Medium Risk,Targeted engagement campaign and personalized recommendations
+C081,18,4,59315.0,14828.75,0,0.4088442588548299,Medium Risk,Targeted engagement campaign and personalized recommendations
+C462,9,4,48414.0,12103.5,0,0.4068181664720342,Medium Risk,Targeted engagement campaign and personalized recommendations
+C054,19,4,65125.0,16281.25,0,0.4059286137436439,Medium Risk,Targeted engagement campaign and personalized recommendations
+C258,77,4,160090.0,40022.5,0,0.4021129989959036,Medium Risk,Targeted engagement campaign and personalized recommendations
+C351,43,3,196476.0,65492.0,1,0.3985743561397643,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C268,25,4,86579.0,21644.75,1,0.3976274057406853,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C024,36,2,330010.0,165005.0,0,0.39748222189404103,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C105,14,4,100922.0,33640.666666666664,0,0.3832923646623811,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C158,7,4,83605.0,20901.25,0,0.3809776204889944,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C384,4,3,159154.0,53051.333333333336,0,0.3807723090624863,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C031,22,4,108599.0,27149.75,0,0.3797223277396206,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C280,23,4,113131.0,28282.75,0,0.3777313462906698,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C436,36,4,138188.0,34547.0,0,0.3743944632056806,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C074,12,5,35685.0,7137.0,0,0.37393518495178535,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C076,58,2,429592.0,214796.0,0,0.3733052017200105,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C034,17,4,114584.0,28646.0,0,0.37064518569979926,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C163,46,3,253324.0,84441.33333333333,1,0.3674397793610354,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C393,90,2,516246.0,258123.0,0,0.3656621150397266,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C198,9,5,54519.0,10903.8,0,0.35780780284417407,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C353,40,5,103914.0,20782.8,0,0.35484418222919645,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C177,44,3,291557.0,97185.66666666667,0,0.3431307349499449,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C004,4,5,79072.0,15814.4,1,0.3362013817690079,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C184,51,6,86317.0,14386.166666666666,1,0.33444966520763436,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C265,45,6,84249.0,14041.5,0,0.3300742314356941,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C108,14,3,275771.0,91923.66666666667,0,0.323026837606356,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C049,4,4,178194.0,44548.5,1,0.3173337812169147,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C121,29,3,324748.0,108249.33333333333,0,0.3101664155919746,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C400,37,5,173739.0,34747.8,0,0.3057315442415735,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C237,71,3,417293.0,139097.66666666666,0,0.2989832003532095,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C404,34,6,124174.0,24834.8,0,0.29608669827513123,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C421,53,6,150590.0,25098.333333333332,0,0.2933355250771695,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C127,25,6,122999.0,20499.833333333332,0,0.2858767136549877,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C014,7,2,521586.0,260793.0,0,0.28429738772661167,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C062,58,3,424128.0,141376.0,0,0.2836912932353254,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C229,3,5,165231.0,33046.2,0,0.28032662175773976,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C193,14,4,260376.0,65094.0,0,0.2778913686874636,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C273,36,5,233229.0,58307.25,0,0.27616104778353,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C445,51,4,321150.0,80287.5,1,0.2757584079839172,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C474,41,3,410680.0,136893.33333333334,0,0.27566942271049416,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C199,39,6,162741.0,27123.5,0,0.273281676519892,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C166,50,4,325094.0,81273.5,0,0.27267054870514673,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C002,3,5,184795.0,36959.0,0,0.2686516043283046,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C246,21,6,145374.0,24229.0,0,0.26845136177376355,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C277,16,4,296684.0,74171.0,0,0.2594292307756644,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C192,4,5,206661.0,41332.2,0,0.25680382307310373,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C063,29,4,326036.0,81509.0,0,0.25439487931160465,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C439,11,6,156441.0,26073.5,0,0.25341390841035627,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C468,7,6,161178.0,32235.6,0,0.25075648084018526,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C135,29,6,192204.0,32034.0,0,0.24727054309771346,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C326,42,3,471934.0,157311.33333333334,0,0.24641982273036314,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C053,39,7,146538.0,20934.0,0,0.2458790708428017,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C113,6,5,230124.0,46024.8,0,0.24522412576065047,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C479,3,7,99841.0,14263.0,0,0.2444017087069681,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C403,15,4,366353.0,122117.66666666667,0,0.24090666965758717,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C117,19,4,350870.0,87717.5,0,0.2334119943723682,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C297,18,6,211932.0,35322.0,0,0.22749650995942008,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C325,6,8,79421.0,9927.625,0,0.22503028438773034,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C179,38,6,247020.0,41170.0,0,0.22366719907991292,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C095,24,5,319220.0,63844.0,0,0.21201659971935893,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C379,34,3,540187.0,180062.33333333334,0,0.20971965357946798,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C257,27,5,330881.0,66176.2,0,0.20838554791253597,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C406,3,7,166422.0,23774.571428571428,0,0.2073405393663524,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C396,11,7,177371.0,25338.714285714286,0,0.20733237900690185,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C397,14,6,256700.0,42783.333333333336,0,0.2011501140551146,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C140,15,7,205304.0,34217.333333333336,0,0.1984053747583517,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C013,53,5,392675.0,78535.0,0,0.19677755907117198,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C365,22,6,284387.0,47397.833333333336,0,0.19304666479246477,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C315,26,5,371820.0,74364.0,0,0.1882020220699058,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C472,3,8,152965.0,19120.625,0,0.18412880450884353,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C242,66,10,124543.0,12454.3,0,0.18320253700782857,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C274,52,7,289176.0,41310.857142857145,0,0.17961744531228668,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C309,15,8,192634.0,24079.25,0,0.17290030482744626,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C266,6,5,390341.0,78068.2,0,0.16736585785202232,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C044,20,7,288707.0,41243.857142857145,0,0.16017619830420884,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C307,7,4,512058.0,128014.5,0,0.15480268733668442,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C119,40,7,334643.0,47806.142857142855,0,0.15235573061850516,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C239,20,6,377984.0,62997.333333333336,0,0.15058135263026864,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C367,6,5,464854.0,92970.8,0,0.13850955877882093,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C056,18,7,353630.0,50518.57142857143,0,0.1332317457747246,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C138,23,8,304077.0,38009.625,1,0.13096666272103483,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C428,8,7,379006.0,54143.71428571428,0,0.11949789790904997,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C446,50,7,473199.0,67599.85714285714,0,0.10769267631019096,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C409,17,5,591182.0,118236.4,0,0.10355063474927245,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C338,41,8,410967.0,51370.875,0,0.10328102282787459,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C454,19,6,532509.0,88751.5,0,0.09842634829113545,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C402,6,6,527991.0,87998.5,0,0.09470903790177305,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C359,24,11,262968.0,23906.18181818182,0,0.08878042415950457,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C227,15,11,256151.0,23286.454545454544,0,0.08747095290379443,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C089,3,8,461224.0,57653.0,0,0.07654770809717562,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C413,7,8,494207.0,61775.875,0,0.07044078112406686,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C093,13,9,462215.0,51357.22222222222,0,0.06581985046278253,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C051,22,9,489360.0,54373.333333333336,0,0.06279728833976475,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C141,11,13,260262.0,21688.5,0,0.060344315994663854,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C465,19,11,525344.0,52534.4,0,0.03853351719089357,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C470,28,9,667423.0,74158.11111111111,0,0.03683738873149956,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C391,8,14,388010.0,27715.0,0,0.03266157769738715,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C183,3,12,532914.0,44409.5,0,0.028662411028800964,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C250,25,8,824618.0,103077.25,0,0.02725076615455912,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C012,5,13,606585.0,50548.75,0,0.018976735455733296,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C248,15,13,621042.0,51753.5,0,0.018876210488581076,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C314,13,11,733051.0,66641.0,0,0.018746434094575454,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C412,12,10,829063.0,82906.3,0,0.016651124960320972,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C306,5,14,715395.0,51099.642857142855,0,0.01072782102245897,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C035,3,18,519944.0,28885.777777777777,0,0.009799088686696236,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C070,23,14,801288.0,57234.857142857145,0,0.008660970529214239,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C262,6,21,607202.0,28914.380952380954,0,0.004207787628415063,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C155,5,15,1112987.0,74199.13333333333,0,0.0022676573800110324,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C442,11,24,665677.0,27736.541666666668,0,0.0020106082747911812,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C241,18,11,1533241.0,139385.54545454544,0,0.0013214337426126746,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C476,8,26,846327.0,33853.08,0,0.0007273687603628207,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C223,55,3,2944098.0,981366.0,0,0.0006347224581593965,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
+C447,12,17,1691469.0,99498.17647058824,0,0.00021246145810895677,Low Risk,"Regular engagement, loyalty offers, and relationship maintenance"
